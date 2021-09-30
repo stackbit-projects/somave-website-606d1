@@ -168,7 +168,7 @@ sections:
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Realizamos todo tipo de soldaduras a medida. Se fabrican puertas de
-          garage, correderas, barandillas, remolques, etc.
+          garaje, correderas, barandillas, remolques, etc.
         actions:
           - label: Learn More
             url: /style-guide
