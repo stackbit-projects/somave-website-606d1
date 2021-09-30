@@ -7,7 +7,7 @@ sections:
       Ofrecemos servicios de soldadura, cerrajería, mecánica rápida y
       mantenimiento de fincas y jardines.
     actions:
-      - label: Try Free
+      - label: Contáctanos
         url: /pricing
         style: primary
       - label: Learn More
