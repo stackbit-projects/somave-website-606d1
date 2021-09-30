@@ -8,7 +8,7 @@ sections:
       mantenimiento de fincas y jardines.
     actions:
       - label: Contáctanos
-        url: /pricing
+        url: '#'
         style: primary
       - label: Saber más
         url: /features
