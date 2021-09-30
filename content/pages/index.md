@@ -3,9 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Calidad en los resultados
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Ofrecemos servicios de soldadura, cerrajería, mecánica rápida y
+      mantenimiento de fincas y jardines.
     actions:
       - label: Try Free
         url: /pricing
