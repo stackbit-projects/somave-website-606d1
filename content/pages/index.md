@@ -181,10 +181,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Mecánica rápida
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Cambiamos aceite, ruedas y hacemos revisión y mantenimiento general de
+          tu vehículo para la ITV.
         actions:
           - label: Learn More
             url: /style-guide
