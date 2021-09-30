@@ -502,9 +502,9 @@ models:
         label: Section ID
         description: A unique identifier of the section, must not contain whitespace
       - name: hero_texts
-        type: reference
+        type: object
         label: Hero texts
-        models: []
+        fields: []
       - type: string
         name: title
         label: Title
