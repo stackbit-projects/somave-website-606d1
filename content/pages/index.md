@@ -349,7 +349,7 @@ sections:
         default_value: Tu nombre
         options: []
         is_required: false
-      - input_type: text
+      - input_type: tel
         name: lorem-ipsum
         label: Teléfono
         default_value: Tu teléfono
