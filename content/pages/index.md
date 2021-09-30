@@ -200,10 +200,10 @@ sections:
         media_width: fifty
       - title: Mantenimiento
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Realizamos todo tipo de proyectos de jardinería, acondicionamos y
+          mantenemos tu jardín en las mejores condiciones, poda de setos y
+          árboles, tratamientos fitosanitarios.
         actions:
           - label: Learn More
             url: /style-guide
