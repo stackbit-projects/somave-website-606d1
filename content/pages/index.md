@@ -66,7 +66,7 @@ sections:
       - title: Mantenimiento
         title_align: left
         content: |
-          Jardines, riego, poda, siembra, 
+          Jardines, riego, poda, siembra, proyectos a medida
         content_align: left
         actions:
           - label: Learn More
