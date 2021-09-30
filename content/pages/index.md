@@ -349,7 +349,7 @@ sections:
         default_value: lorem-ipsum
         options: []
         is_required: false
-    submit_label: lorem-ipsum
+    submit_label: Llámame!
     align_vert: top
     padding_top: medium
     padding_bottom: medium
