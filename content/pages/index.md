@@ -313,7 +313,7 @@ sections:
   - type: cta_section
     title: Contáctanos
     content: >
-      Contáctanos a través de Whatsapp al número **6xx xxx xxx** o vía email a
+      Contáctanos a través de Whatsapp al número **690 146 626** o vía email a
       **somave.grupo@gmail.com**
     actions:
       - label: Button
