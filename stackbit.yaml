@@ -504,7 +504,9 @@ models:
       - name: hero_texts
         type: object
         label: Hero texts
-        fields: []
+        fields:
+          - name: ''
+            type: string
       - type: string
         name: title
         label: Title
