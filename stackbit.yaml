@@ -504,7 +504,8 @@ models:
       - name: hero_texts
         type: model
         label: Hero texts
-        models: []
+        models:
+          - header
       - type: string
         name: title
         label: Title
