@@ -501,14 +501,14 @@ models:
         name: section_id
         label: Section ID
         description: A unique identifier of the section, must not contain whitespace
-      - name: hero_texts
-        type: model
-        label: Hero texts
-        models: []
       - type: string
         name: title
         label: Title
         description: The title of the section
+      - name: hero_texts
+        type: model
+        label: Hero texts
+        models: []
       - type: string
         name: subtitle
         label: Subtitle
