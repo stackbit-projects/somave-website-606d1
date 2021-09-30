@@ -28,9 +28,13 @@ sections:
     grid_items:
       - title: Soldadura
         title_align: left
-        content: |
-          Realizamos trabajos de soldadura en todo tipo de metales.
-          Hacemos estructuras metálicas personalizadas.
+        content: |+
+          Acero
+
+          Acero inoxidable
+
+          Oxicorte
+
         content_align: left
         actions:
           - label: Learn More
