@@ -48,7 +48,7 @@
             {
                 "label": "Contáctanos",
                 "url": "/pricing",
-                "style": "primary"
+                "style": "secondary"
             }
         ]
     },
