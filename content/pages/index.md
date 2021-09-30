@@ -51,10 +51,14 @@ sections:
         image_has_padding: true
       - title: Mecánica rápida
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Neumáticos
+
+          Cambio de aceite
+
+          Frenos
+
+          Pre-ITV
         content_align: left
         actions:
           - label: Learn More
