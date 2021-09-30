@@ -65,10 +65,8 @@ sections:
         image_has_padding: true
       - title: Mantenimiento
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Jardines, riego, poda, siembra, 
         content_align: left
         actions:
           - label: Learn More
