@@ -123,7 +123,7 @@ sections:
         default_value: Tu teléfono
         options: []
         is_required: false
-    submit_label: Llámame!
+    submit_label: ¡Llámame!
     align_vert: top
     padding_top: medium
     padding_bottom: medium
