@@ -22,7 +22,9 @@ sections:
     background_color: primary
     background_image: /images/bg.jpeg
     has_border: false
-    subtitle: Somos un compañía multi
+    subtitle: >-
+      Ofrecemos servicios de soldadura, cerrajería, mecánica rápida y
+      manteniemiento
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
