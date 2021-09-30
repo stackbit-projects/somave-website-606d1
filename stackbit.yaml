@@ -505,7 +505,7 @@ models:
         type: object
         label: Hero texts
         fields:
-          - name: ''
+          - name: Title
             type: string
       - type: string
         name: title
