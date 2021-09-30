@@ -506,10 +506,9 @@ models:
         label: Title
         description: The title of the section
       - name: hero_texts
-        type: list
-        items:
-          type: string
+        type: object
         label: Hero texts
+        fields: []
       - type: string
         name: subtitle
         label: Subtitle
