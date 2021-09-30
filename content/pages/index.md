@@ -326,7 +326,6 @@ sections:
     background_color: secondary
   - section_id: lorem-ipsum
     title: Contacta con nosotros
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
