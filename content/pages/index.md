@@ -166,10 +166,9 @@ sections:
     features:
       - title: Soldadura
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Realizamos todo tipo de soldaduras a medida. Se fabrican puertas de
+          garage, correderas, barandillas, remolques, etc.
         actions:
           - label: Learn More
             url: /style-guide
