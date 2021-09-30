@@ -94,7 +94,7 @@ sections:
     content: |
       Háblanos por Whatsapp
 
-      ### ![](/images/Recurso%208@4x.png)+34 690 146 626
+      ### +34 690 146 626
 
       O te hablamos nosotros, lo que prefieras :)
     content_align: left
