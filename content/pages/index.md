@@ -47,8 +47,8 @@ sections:
       - title: Mecánica rápida
         title_align: left
         content: >
-          Neumáticos, cambio de aceite, frenos, pre-ITV, mantenimiento general
-          de vehículos
+          Neumáticos, cambio de aceite, frenos, pre-ITV, mantenimiento de
+          vehículos
         content_align: left
         actions:
           - label: Learn More
