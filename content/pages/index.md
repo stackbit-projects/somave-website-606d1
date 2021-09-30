@@ -92,13 +92,11 @@ sections:
     title: Contacta con nosotros
     title_align: left
     content: |
-      Puedes llamarnos...
+      Háblanos por Whatsapp
 
-      ### Teléfono: +34 690 146 626
+      ### +34 690 146 626
 
-
-
-      O te llamamos nosotros, lo que prefieras :)
+      O te hablamos nosotros, lo que prefieras :)
     content_align: left
     form_position: bottom
     form_width: fifty
