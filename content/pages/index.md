@@ -10,7 +10,7 @@ sections:
       - label: Contáctanos
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Saber más
         url: /features
         style: secondary
     image_alt: Hero section placeholder image
