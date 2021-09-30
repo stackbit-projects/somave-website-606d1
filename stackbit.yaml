@@ -511,6 +511,7 @@ models:
             description: The title of the section
           - name: Content
             type: markdown
+            label: content
       - type: string
         name: title
         label: Title
