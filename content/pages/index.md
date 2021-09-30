@@ -346,7 +346,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Nombre
-        default_value: lorem-ipsum
+        default_value: Tu nombre
         options: []
         is_required: false
       - input_type: text
