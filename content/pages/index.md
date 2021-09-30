@@ -327,17 +327,10 @@ sections:
   - section_id: lorem-ipsum
     title: Contacta con nosotros
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Puedes llamarnos o te llamamos, lo que prefieras :) 
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      ### Teléfono: +34 690 146 626
     content_align: left
     form_position: bottom
     form_width: fifty
