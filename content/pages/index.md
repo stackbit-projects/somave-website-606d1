@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: SOMAVE
+    title: 'Calidad en lo que '
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
