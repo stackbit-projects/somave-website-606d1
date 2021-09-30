@@ -352,7 +352,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Teléfono
-        default_value: lorem-ipsum
+        default_value: Tu teléfono
         options: []
         is_required: false
     submit_label: Llámame!
