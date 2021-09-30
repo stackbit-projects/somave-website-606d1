@@ -92,7 +92,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - section_id: lorem-ipsum
+  - section_id: contacta-con-nosotros
     title: Contacta con nosotros
     title_align: left
     content: |
