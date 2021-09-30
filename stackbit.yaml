@@ -645,6 +645,7 @@ models:
         type: list
         items:
           type: string
+        label: Hero texts
     labelField: title
   features_section:
     type: object
