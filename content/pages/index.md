@@ -351,7 +351,7 @@ sections:
         is_required: false
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Teléfono
         default_value: lorem-ipsum
         options: []
         is_required: false
