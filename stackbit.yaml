@@ -507,6 +507,7 @@ models:
         fields:
           - name: Title
             type: string
+            label: Title
       - type: string
         name: title
         label: Title
