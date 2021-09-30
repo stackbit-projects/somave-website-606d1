@@ -328,9 +328,13 @@ sections:
     title: Contacta con nosotros
     title_align: left
     content: |
-      Puedes llamarnos o te llamamos, lo que prefieras :) 
+      Puedes llamarnos...
 
       ### Teléfono: +34 690 146 626
+
+
+
+      O te llamamos nosotros, lo que prefieras :)
     content_align: left
     form_position: bottom
     form_width: fifty
