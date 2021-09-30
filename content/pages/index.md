@@ -65,8 +65,9 @@ sections:
         image_has_padding: true
       - title: Mantenimiento
         title_align: left
-        content: |
-          Jardines, riego, poda, siembra, proyectos a medida
+        content: >
+          Jardines, riego, siembra, poda, proyectos a medida, mantenimiento
+          general
         content_align: left
         actions:
           - label: Learn More
