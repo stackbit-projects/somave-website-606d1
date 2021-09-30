@@ -59,6 +59,8 @@ sections:
           Frenos
 
           Pre-ITV
+
+          Mantenimiento general de vehículos
         content_align: left
         actions:
           - label: Learn More
