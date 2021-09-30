@@ -312,10 +312,9 @@ sections:
     background_color: none
   - type: cta_section
     title: Contáctanos
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Contáctanos a través de Whatsapp al número 6xx xxx xxx o vía email a
+      somave.grupo@gmail.com
     actions:
       - label: Button
         url: /pricing
