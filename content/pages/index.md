@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Calidad en lo que '
+    title: Calidad en los resultados
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
