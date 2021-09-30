@@ -87,7 +87,7 @@ export default class HeroSection extends React.Component {
                                     {title && <h1 className="hero__title">{title}</h1>}
                                     {subtitle && <p className="hero__subtitle">{subtitle}</p>}
                                     {content && <div className="hero__copy">{markdownify(content)}</div>}
-                                </div>
+                                
                                 {!_.isEmpty(actions) && (
                                     <div
                                         className={classNames('hero__actions', 'btn-group', {
@@ -98,6 +98,7 @@ export default class HeroSection extends React.Component {
                                         <SectionActions actions={actions} />
                                     </div>
                                 )}
+                                </div>
                             </div>
                         )}
                     </div>
