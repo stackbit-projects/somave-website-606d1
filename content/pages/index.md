@@ -184,9 +184,6 @@ sections:
         content: >
           Cambiamos aceite, ruedas y hacemos revisión y mantenimiento general de
           tu vehículo para la ITV.
-
-
-          Fabricamos escapes a medida en acero inoxidable.
         actions:
           - label: Learn More
             url: /style-guide
