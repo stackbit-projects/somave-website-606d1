@@ -510,7 +510,7 @@ models:
             label: Title
             description: The title of the section
           - name: Content
-            type: string
+            type: markdown
       - type: string
         name: title
         label: Title
