@@ -504,7 +504,8 @@ models:
       - name: hero_texts
         type: model
         label: Hero texts
-        models: []
+        models:
+          - hero_section
       - type: string
         name: title
         label: Title
