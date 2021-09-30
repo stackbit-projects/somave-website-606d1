@@ -642,7 +642,8 @@ models:
         default: no-repeat
         description: Repeat the image to cover the whole area
       - name: Hero texts
-        type: string
+        type: model
+        models: []
     labelField: title
   features_section:
     type: object
