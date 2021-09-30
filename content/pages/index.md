@@ -28,13 +28,8 @@ sections:
     grid_items:
       - title: Soldadura
         title_align: left
-        content: |+
-          Acero
-
-          Acero inoxidable
-
-          Oxicorte
-
+        content: |
+          Acero, acero inoxidable, oxicorte, TIG, MIG/MAG, eléctrica
         content_align: left
         actions:
           - label: Learn More
