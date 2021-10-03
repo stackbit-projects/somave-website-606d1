@@ -39,7 +39,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/Recurso 11@4x.png
+        image: /images/Recurso 15@4x.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
