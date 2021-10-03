@@ -24,7 +24,6 @@ sections:
     has_border: false
   - type: grid_section
     title: Nuestros servicios
-    subtitle: Grid Section Example
     grid_items:
       - title: Soldadura
         title_align: left
