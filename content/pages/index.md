@@ -23,7 +23,7 @@ sections:
     background_image: /images/bg.jpeg
     has_border: false
   - type: grid_section
-    title: Cards Grid Section
+    title: Nuestros servicios
     subtitle: Grid Section Example
     grid_items:
       - title: Soldadura
