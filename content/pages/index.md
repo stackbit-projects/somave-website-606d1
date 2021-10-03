@@ -77,7 +77,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-3.svg
+        image: /images/Recurso 18@2x.png
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
