@@ -209,6 +209,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    section_id: contacto
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
