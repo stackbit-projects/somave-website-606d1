@@ -145,7 +145,7 @@ sections:
     title: Así hacemos las cosas
     features:
       - title: Soldadura
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Realizamos todo tipo de soldaduras a medida
         content: >
           Se fabrican puertas de garaje, correderas, barandillas, remolques,
           etc.
