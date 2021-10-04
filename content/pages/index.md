@@ -202,7 +202,7 @@ sections:
     section_id: contacto
 seo:
   title: Grupo Somave
-  description: The preview of the DIY theme
+  description: Ofrecemos servicios de soldadura, cerrajería,mecánica rápida y mantenimiento de fincas y jardines.
   extra:
     - name: 'og:type'
       value: website
