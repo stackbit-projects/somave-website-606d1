@@ -147,11 +147,8 @@ sections:
       - title: Soldadura
         subtitle: Realizamos todo tipo de soldaduras a medida
         content: >
-          Se fabrican puertas de garaje, correderas, barandillas, remolques,
-          etc.
-
-
-          Fabricamos escapes a medida en acero inoxidable.
+          Desde puertas de garaje, correderas, barandillas, remolques hasta
+          escapes a medida **en acero inoxidable**.
         actions:
           - label: Learn More
             url: /style-guide
