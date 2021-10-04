@@ -61,7 +61,7 @@ sections:
         actions_align: left
         image: /images/Recurso 17@4x.png
         image_alt: Section item 3 icon
-        image_position: bottom
+        image_position: top
         image_align: center
         image_has_padding: true
     grid_cols: three
