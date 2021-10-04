@@ -156,21 +156,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: cta_section
-    title: Pide presupuesto o cita
-    content: >
-      Contáctanos a través de Whatsapp al número **+34** **690 146 626** o vía
-      email a **somave.grupo@gmail.com**
-    actions:
-      - label: Llamar ahora
-        url: 'tel://0034690146626'
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    section_id: contacto
   - section_id: lorem-ipsum
     title: Ven a visitarnos
     features:
@@ -199,6 +184,21 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+  - type: cta_section
+    title: Pide presupuesto o cita
+    content: >
+      Contáctanos a través de Whatsapp al número **+34** **690 146 626** o vía
+      email a **somave.grupo@gmail.com**
+    actions:
+      - label: Llamar ahora
+        url: 'tel://0034690146626'
+        style: primary
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    section_id: contacto
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
