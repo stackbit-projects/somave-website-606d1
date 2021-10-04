@@ -98,7 +98,7 @@ sections:
         default_value: Tu teléfono
         options: []
         is_required: false
-    submit_label: ¡Háblame!
+    submit_label: ¡Llamame!
     align_vert: top
     padding_top: medium
     padding_bottom: medium
