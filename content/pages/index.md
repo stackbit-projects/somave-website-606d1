@@ -177,7 +177,7 @@ sections:
       - content: |
           ## Robleda, Salamanca
 
-          Estamos en **C/Ladera 2, Robleda.**
+          Estamos en **c/ Ladera 2, Robleda.**
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
