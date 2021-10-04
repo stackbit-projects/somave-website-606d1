@@ -195,6 +195,14 @@ sections:
         url: >-
           https://wa.me/0034690146626?text='Hola%2C%20quer%C3%ADa%20pediros%20presupuesto%2C%20%C2%BFpod%C3%A9is%20poneros%20en%20contacto%20conmigo%3F'
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     actions_position: bottom
     align: center
     padding_top: large
