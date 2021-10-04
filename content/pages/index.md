@@ -201,14 +201,14 @@ sections:
     background_color: primary
     section_id: contacto
 seo:
-  title: Somave
+  title: Grupo Somave
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Grupo Somave
       keyName: property
     - name: 'og:description'
       value: The preview of the DIY theme
