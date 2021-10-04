@@ -192,7 +192,7 @@ sections:
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.148377367047!2d-6.605455484711657!3d40.383403979368964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3dcdc0e51ca801%3A0xcb994f57da2a504a!2sC.%20Ladera%2C%202%2C%2037521%20Robleda%2C%20Salamanca!5e0!3m2!1sen!2ses!4v1633362943101!5m2!1sen!2ses"
           width="600" height="450" style="border:0;" allowfullscreen=""
           loading="lazy"></iframe>
-        media_position: top
+        media_position: left
         media_width: fifty
         align: center
     feature_padding_vert: medium
