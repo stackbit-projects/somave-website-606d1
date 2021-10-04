@@ -56,13 +56,7 @@ sections:
           Jardines, riego, siembra, poda, proyectos a medida, mantenimiento
           general
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/Recurso 17@4x.png
         image_alt: Section item 3 icon
