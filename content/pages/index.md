@@ -178,9 +178,9 @@ sections:
       - title: Mantenimiento
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >
-          Realizamos todo tipo de proyectos de jardinería, acondicionamos y
-          mantenemos tu jardín en las mejores condiciones, poda de setos y
-          árboles, tratamientos fitosanitarios.
+          Acondicionamos y mantenemos tu jardín en las mejores condiciones. Poda
+          de setos y árboles, instalación de riego, tratamientos fitosanitarios
+          y más.
         actions:
           - label: Learn More
             url: /style-guide
