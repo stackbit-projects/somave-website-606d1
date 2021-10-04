@@ -43,13 +43,7 @@ sections:
           Neumáticos, cambio de aceite, frenos, pre-ITV, mantenimiento de
           vehículos
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/Recurso 16@4x.png
         image_alt: Section item 2 icon
