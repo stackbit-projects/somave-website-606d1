@@ -46,7 +46,7 @@
                 "no_follow": false
             },
             {
-                "label": "Llámanos",
+                "label": "Pide presupuesto o cita",
                 "url": "/pricing",
                 "style": "primary"
             }
