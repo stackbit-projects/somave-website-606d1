@@ -143,7 +143,6 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Así hacemos las cosas
-    subtitle: Features Section Example
     features:
       - title: Soldadura
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
