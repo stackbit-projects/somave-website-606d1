@@ -173,7 +173,7 @@ sections:
     section_id: contacto
   - section_id: lorem-ipsum
     title: Dónde estamos
-    subtitle: lorem-ipsum
+    subtitle: ¡Ven a visitarnos!
     features: []
     feature_padding_vert: medium
     align: center
