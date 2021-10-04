@@ -34,7 +34,7 @@ sections:
         actions_align: left
         image: /images/Recurso 15@4x-cc26387c.png
         image_alt: Section item 1 icon
-        image_position: bottom
+        image_position: top
         image_align: center
         image_has_padding: true
         image_width: thirty-three
