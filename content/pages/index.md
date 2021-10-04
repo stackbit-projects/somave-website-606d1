@@ -199,7 +199,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    subtitle: ¡Ven a visitarnos!
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
