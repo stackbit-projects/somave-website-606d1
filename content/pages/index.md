@@ -110,7 +110,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - type: grid_section
-    title: Image Grid
+    title: los mejores proveedores
     subtitle: 'La calidad está en todo lo que hacemos, por eso trabajamos con'
     align: center
     grid_items:
