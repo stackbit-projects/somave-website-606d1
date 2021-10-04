@@ -147,8 +147,8 @@ sections:
       - title: Soldadura
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
-          Realizamos todo tipo de soldaduras a medida. Se fabrican puertas de
-          garaje, correderas, barandillas, remolques, etc.
+          Se fabrican puertas de garaje, correderas, barandillas, remolques,
+          etc.
 
 
           Fabricamos escapes a medida en acero inoxidable.
