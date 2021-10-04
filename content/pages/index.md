@@ -196,6 +196,7 @@ sections:
           https://wa.me/0034690146626?text='Hola%2C%20quer%C3%ADa%20pediros%20presupuesto%2C%20%C2%BFpod%C3%A9is%20poneros%20en%20contacto%20conmigo%3F'
         style: primary
         has_icon: true
+        icon: arrow-right
       - label: "Agendar cita \U0001F4C6"
         url: '#'
         style: primary
