@@ -10,7 +10,7 @@
         "title": "Somave",
         "logo": "/images/Recurso 29@4x.png",
         "logo_alt": "DIY logo",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "label": "Pricing",
