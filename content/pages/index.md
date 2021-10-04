@@ -48,7 +48,7 @@ sections:
         actions_align: left
         image: /images/Recurso 16@4x.png
         image_alt: Section item 2 icon
-        image_position: top
+        image_position: bottom
         image_align: left
         image_has_padding: true
       - title: Mantenimiento
