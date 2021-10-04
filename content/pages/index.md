@@ -151,7 +151,7 @@ sections:
           escapes a medida **en acero inoxidable**.
         actions:
           - label: Pide presupuesto
-            url: /style-guide
+            url: '#contacto'
             style: primary
             has_icon: true
             icon: arrow-right
