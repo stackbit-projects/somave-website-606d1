@@ -203,7 +203,7 @@ sections:
     actions:
       - label: Llamar ahora
         url: 'tel://0034690146626'
-        style: primary
+        style: secondary
     actions_position: bottom
     align: center
     padding_top: large
