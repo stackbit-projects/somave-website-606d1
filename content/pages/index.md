@@ -172,7 +172,7 @@ sections:
     background_color: primary
     section_id: contacto
   - section_id: lorem-ipsum
-    title: ¿Dónde estamos?
+    title: Ven a visitarnos
     features:
       - content: |
           ## Robleda, Salamanca
