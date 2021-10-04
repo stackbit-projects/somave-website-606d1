@@ -49,7 +49,7 @@ sections:
         image: /images/Recurso 16@4x.png
         image_alt: Section item 2 icon
         image_position: bottom
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title: Mantenimiento
         title_align: left
