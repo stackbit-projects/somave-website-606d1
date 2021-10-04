@@ -123,7 +123,7 @@ sections:
         media_width: fifty
       - title: Mecánica rápida
         content: >
-          Mantenimiento general de tu vehículo. Cambio de aceite y ruedas.
+          Mantenimiento general de tu vehículo. **Cambio de aceite y ruedas**.
           Revisión para la ITV.
         actions:
           - label: Pide cita
