@@ -156,7 +156,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: none
   - section_id: lorem-ipsum
     title: Ven a visitarnos
     features:
