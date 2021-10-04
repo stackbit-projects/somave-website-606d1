@@ -191,7 +191,7 @@ sections:
       Contáctanos a través de Whatsapp al número **+34** **690 146 626** o vía
       email a **somave.grupo@gmail.com**
     actions:
-      - label: Pedir prespuesto
+      - label: 'Pedir presupuesto '
         url: >-
           https://wa.me/0034690146626?text='Hola%2C%20quer%C3%ADa%20pediros%20presupuesto%2C%20%C2%BFpod%C3%A9is%20poneros%20en%20contacto%20conmigo%3F'
         style: primary
