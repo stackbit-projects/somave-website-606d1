@@ -37,7 +37,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        image_width: fifty
+        image_width: thirty-three
       - title: Mecánica rápida
         title_align: left
         content: >
