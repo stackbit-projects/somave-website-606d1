@@ -166,7 +166,7 @@ sections:
           tu vehículo para la ITV.
         actions:
           - label: Pide cita
-            url: /style-guide
+            url: '#contacto'
             style: primary
             has_icon: true
             icon: arrow-right
