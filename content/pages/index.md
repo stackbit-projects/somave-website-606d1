@@ -230,7 +230,7 @@ seo:
         Ofrecemos servicios de soldadura, cerrajería, mecánica rápida y
         mantenimiento de fincas y jardines.
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/Recurso 9@4x.png
       relativeUrl: true
 layout: advanced
 ---
