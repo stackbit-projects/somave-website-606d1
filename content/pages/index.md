@@ -176,7 +176,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Mantenimiento
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: Realizamos todo tipo de proyectos de jardinería
         content: >
           Acondicionamos y mantenemos tu jardín en las mejores condiciones. Poda
           de setos y árboles, instalación de riego, tratamientos fitosanitarios
