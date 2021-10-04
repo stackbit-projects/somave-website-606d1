@@ -175,7 +175,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: Mantenimiento
+      - title: Mantenimiento fincas
         subtitle: Realizamos todo tipo de proyectos de jardinería
         content: >
           Acondicionamos y mantenemos tu jardín en las mejores condiciones. Poda
