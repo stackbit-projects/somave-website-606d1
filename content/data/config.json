@@ -47,7 +47,7 @@
             },
             {
                 "label": "Pide presupuesto o cita",
-                "url": "/pricing",
+                "url": "#contacto",
                 "style": "primary"
             }
         ]
