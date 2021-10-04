@@ -165,7 +165,7 @@ sections:
           Cambiamos aceite, ruedas y hacemos revisión y mantenimiento general de
           tu vehículo para la ITV.
         actions:
-          - label: Learn More
+          - label: Pide cita
             url: /style-guide
             style: primary
             has_icon: true
