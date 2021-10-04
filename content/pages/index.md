@@ -182,7 +182,7 @@ sections:
           de setos y árboles, instalación de riego, tratamientos fitosanitarios
           y más.
         actions:
-          - label: Learn More
+          - label: Llámanos
             url: /style-guide
             style: primary
             has_icon: true
