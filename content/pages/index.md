@@ -30,13 +30,7 @@ sections:
         content: |
           Acero, acero inoxidable, oxicorte, TIG, MIG/MAG, eléctrica
         content_align: left
-        actions:
-          - label: Learn More
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/Recurso 15@4x-cc26387c.png
         image_alt: Section item 1 icon
