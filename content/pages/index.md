@@ -111,7 +111,7 @@ sections:
     type: form_section
   - type: grid_section
     title: Image Grid
-    subtitle: Grid Section Example
+    subtitle: Calidad en todo lo que hacemos
     align: center
     grid_items:
       - image: /images/Recurso 1@4x-20.jpg
