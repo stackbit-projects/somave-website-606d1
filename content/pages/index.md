@@ -201,7 +201,7 @@ sections:
       Contáctanos a través de Whatsapp al número **+34** **690 146 626** o vía
       email a **somave.grupo@gmail.com**
     actions:
-      - label: Button
+      - label: Llamar ahora
         url: /pricing
         style: primary
     actions_position: bottom
