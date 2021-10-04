@@ -183,7 +183,7 @@ sections:
           y más.
         actions:
           - label: Llámanos
-            url: /style-guide
+            url: '#contacto'
             style: primary
             has_icon: true
             icon: arrow-right
