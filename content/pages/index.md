@@ -202,7 +202,7 @@ sections:
       email a **somave.grupo@gmail.com**
     actions:
       - label: Llamar ahora
-        url: 'tel://'
+        url: 'tel://00346'
         style: primary
     actions_position: bottom
     align: center
