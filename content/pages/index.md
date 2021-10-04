@@ -150,7 +150,7 @@ sections:
           Desde puertas de garaje, correderas, barandillas, remolques hasta
           escapes a medida **en acero inoxidable**.
         actions:
-          - label: Learn More
+          - label: Pide presupuesto
             url: /style-guide
             style: primary
             has_icon: true
