@@ -175,7 +175,7 @@ sections:
     title: Dónde estamos
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: Ve
         content: >-
           ## Lorem ipsum
 
