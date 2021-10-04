@@ -222,7 +222,7 @@ seo:
     - name: 'twitter:title'
       value: Grupo Somave
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Ofrecemos servicios de soldadura, cerrajería, mecánica rápida y mantenimiento de fincas y jardines.
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
