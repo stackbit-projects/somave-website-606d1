@@ -123,8 +123,8 @@ sections:
         media_width: fifty
       - title: Mecánica rápida
         content: >
-          Cambiamos aceite, ruedas y hacemos revisión y mantenimiento general de
-          tu vehículo para la ITV.
+          Mantenimiento general de tu vehículo. Cambio de aceite y ruedas.
+          Revisión para la ITV.
         actions:
           - label: Pide cita
             url: '#contacto'
