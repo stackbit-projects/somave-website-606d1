@@ -192,7 +192,8 @@ sections:
       email a **somave.grupo@gmail.com**
     actions:
       - label: ¡Contactar ahora!
-        url: 'tel://0034690146626'
+        url: >-
+          https://wa.me/15551234567?text=I'm%20interested%20in%20your%20car%20for%20sale0034690146626
         style: primary
     actions_position: bottom
     align: center
