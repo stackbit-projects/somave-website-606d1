@@ -220,7 +220,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: Grupo Somave
     - name: 'twitter:description'
       value: The preview of the DIY theme
     - name: 'twitter:image'
