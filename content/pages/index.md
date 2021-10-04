@@ -174,17 +174,10 @@ sections:
   - section_id: lorem-ipsum
     title: ¿Dónde estamos?
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: |
+          ## Robleda, Salamanca
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Estamos en **C/Ladera 2, Robleda.**
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
