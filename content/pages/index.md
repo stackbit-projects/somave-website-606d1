@@ -140,8 +140,8 @@ sections:
         subtitle: Mantenimiento y proyectos de jardinería
         content: >
           Acondicionamos y mantenemos tu jardín en las mejores condiciones. Poda
-          de setos y árboles, instalación de riego, tratamientos fitosanitarios
-          y más.
+          de setos y árboles, instalación de riego, tratamientos fitosanitarios,
+          etc.. Todo lo que necesites.
         actions:
           - label: Llámanos
             url: '#contacto'
