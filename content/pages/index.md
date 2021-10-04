@@ -8,7 +8,7 @@ sections:
       mantenimiento de fincas y jardines.
     actions:
       - label: Pide presupuesto o cita
-        url: '#contacta-con-nosotros'
+        url: '#contacto'
         style: primary
       - label: Saber más
         url: /features
