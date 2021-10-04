@@ -137,7 +137,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Mantenimiento jardines
-        subtitle: Realizamos todo tipo de proyectos de jardinería
+        subtitle: Mantenimiento y proyectos de jardinería
         content: >
           Acondicionamos y mantenemos tu jardín en las mejores condiciones. Poda
           de setos y árboles, instalación de riego, tratamientos fitosanitarios
