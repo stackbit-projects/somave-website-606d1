@@ -196,7 +196,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Contáctanos
+    title: Pide presupuesto o cita
     content: >
       Contáctanos a través de Whatsapp al número **+34** **690 146 626** o vía
       email a **somave.grupo@gmail.com**
