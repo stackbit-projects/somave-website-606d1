@@ -69,46 +69,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - section_id: contacta-con-nosotros
-    title: Contacta con nosotros
-    title_align: left
-    content: |
-      Háblanos por Whatsapp
-
-      ### +34 690 146 626
-
-      O te hablamos nosotros, lo que prefieras :)
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields:
-      - input_type: text
-        name: lorem-ipsum
-        label: Nombre
-        default_value: Tu nombre
-        options: []
-        is_required: false
-      - input_type: tel
-        name: lorem-ipsum
-        label: Teléfono
-        default_value: Tu teléfono
-        options: []
-        is_required: false
-    submit_label: Quiero que me llaméis
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
   - type: grid_section
     title: los mejores proveedores
     subtitle: 'La calidad está en todo lo que hacemos, por eso trabajamos con'
