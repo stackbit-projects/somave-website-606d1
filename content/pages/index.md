@@ -174,8 +174,7 @@ sections:
   - section_id: lorem-ipsum
     title: Dónde estamos
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
