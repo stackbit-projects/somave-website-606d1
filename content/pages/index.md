@@ -172,7 +172,7 @@ sections:
     background_color: primary
     section_id: contacto
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Dónde estamos
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
