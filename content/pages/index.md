@@ -193,7 +193,7 @@ sections:
     actions:
       - label: Pedir prespuesto
         url: >-
-          https://wa.me/15551234567?text=I'm%20interested%20in%20your%20car%20for%20sale0034690146626
+          https://wa.me/0034690146626?text='Hola%2C%20quer%C3%ADa%20pediros%20presupuesto%2C%20%C2%BFpod%C3%A9is%20poneros%20en%20contacto%20conmigo%3F'
         style: primary
     actions_position: bottom
     align: center
