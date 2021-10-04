@@ -201,7 +201,7 @@ sections:
     background_color: primary
     section_id: contacto
 seo:
-  title: Stackbit DIY Theme
+  title: Somave
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
