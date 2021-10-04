@@ -202,7 +202,9 @@ sections:
     section_id: contacto
 seo:
   title: Grupo Somave
-  description: Ofrecemos servicios de soldadura, cerrajería,mecánica rápida y mantenimiento de fincas y jardines.
+  description: >-
+    Ofrecemos servicios de soldadura, cerrajería,mecánica rápida y mantenimiento
+    de fincas y jardines.
   extra:
     - name: 'og:type'
       value: website
@@ -211,10 +213,12 @@ seo:
       value: Grupo Somave
       keyName: property
     - name: 'og:description'
-      value: Ofrecemos servicios de soldadura, cerrajería,mecánica rápida y mantenimiento de fincas y jardines.
+      value: >-
+        Ofrecemos servicios de soldadura, cerrajería,mecánica rápida y
+        mantenimiento de fincas y jardines.
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/Recurso 9@4x.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -222,7 +226,9 @@ seo:
     - name: 'twitter:title'
       value: Grupo Somave
     - name: 'twitter:description'
-      value: Ofrecemos servicios de soldadura, cerrajería, mecánica rápida y mantenimiento de fincas y jardines.
+      value: >-
+        Ofrecemos servicios de soldadura, cerrajería, mecánica rápida y
+        mantenimiento de fincas y jardines.
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
