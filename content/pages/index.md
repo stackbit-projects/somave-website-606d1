@@ -204,7 +204,7 @@ sections:
         has_icon: false
         icon: arrow-right
         icon_position: right
-        new_window: false
+        new_window: true
         no_follow: false
     actions_position: bottom
     align: center
