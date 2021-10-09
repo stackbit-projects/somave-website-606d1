@@ -11,7 +11,7 @@ sections:
         url: '#contacto'
         style: primary
       - label: Saber más
-        url: /features
+        url: '#servicios'
         style: secondary
     image_alt: Hero section placeholder image
     media_position: left
