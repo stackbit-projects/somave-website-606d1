@@ -70,6 +70,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+    section_id: servicios
   - type: grid_section
     title: los mejores proveedores
     subtitle: 'La calidad está en todo lo que hacemos, por eso trabajamos con'
