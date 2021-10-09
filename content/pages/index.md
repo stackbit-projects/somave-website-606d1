@@ -8,7 +8,8 @@ sections:
       mantenimiento de fincas y jardines.
     actions:
       - label: "Pedir presupuesto \U0001F4B6"
-        url: '#contacto'
+        url: >-
+          https://wa.me/0034690146626?text=Hola%2C%20quer%C3%ADa%20pediros%20presupuesto%2C%20%C2%BFpod%C3%A9is%20poneros%20en%20contacto%20conmigo%3F
         style: primary
       - label: Saber más
         url: '#servicios'
