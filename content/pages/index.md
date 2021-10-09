@@ -14,6 +14,7 @@ sections:
       - label: "Agendar cita \U0001F4C6"
         url: '#servicios'
         style: secondary
+        new_window: true
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
