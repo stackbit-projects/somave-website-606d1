@@ -166,7 +166,7 @@ sections:
       - content: |
           #### c/ Ladera 2, Robleda
 
-          ## Salamanca
+          #### Salamanca
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
