@@ -165,6 +165,8 @@ sections:
     features:
       - content: |
           #### c/ Ladera 2, Robleda (Salamanca)
+
+          Ven a vernos de 09:00 a 17:00 de Lunes a Sábado
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
