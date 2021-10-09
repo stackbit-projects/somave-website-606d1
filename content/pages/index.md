@@ -199,7 +199,7 @@ sections:
         has_icon: false
         icon: arrow-right
       - label: "Agendar cita \U0001F4C6"
-        url: '#'
+        url: 'https://calendly.com/somave/cita-taller'
         style: primary
         has_icon: false
         icon: arrow-right
