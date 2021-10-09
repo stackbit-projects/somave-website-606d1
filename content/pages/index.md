@@ -189,8 +189,8 @@ sections:
   - type: cta_section
     title: Pide presupuesto o cita
     content: >
-      Contáctanos a través de Whatsapp al número **+34** **690 146 626** o vía
-      email a **somave.grupo@gmail.com**
+      Contáctanos a través de WhatsApp al número **+34** **690 146 626** o vía
+      email a **contacto@somave.es**
     actions:
       - label: "Pedir presupuesto \U0001F4B6"
         url: >-
