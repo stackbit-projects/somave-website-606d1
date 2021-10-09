@@ -164,7 +164,8 @@ sections:
     title: Ven a visitarnos
     features:
       - content: |
-          ## c/ Ladera 2, Robleda, Salamanca
+          c/ Ladera 2, Robleda
+          Salamanca
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
