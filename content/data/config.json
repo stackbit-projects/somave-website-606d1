@@ -160,5 +160,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "somave.es"
+    "domain": "somave.es",
+    "favicon": "/images/icon_somave.png"
 }
