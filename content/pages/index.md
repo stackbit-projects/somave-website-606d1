@@ -88,7 +88,7 @@ sections:
       - image: /images/Honda-Logo-t.png
         image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-4.svg
+      - image: /images/petronas-logo-vector.svg
         image_alt: Sanity logo
         image_align: center
       - image: images/logo-5.svg
