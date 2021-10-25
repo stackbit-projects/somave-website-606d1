@@ -48,7 +48,7 @@ export default class Header extends React.Component {
                     const actionStyle = _.get(action, 'style', 'link');
                     return (
                         <li
-                            onClick={this.handleMenuToggle.bind(this)}
+                            onClick={() => { this.handleMenuToggle.bind(this) }}
                             key={index}
                             className={classNames('menu__item', 'ml-md-3', {
                                 'is-active': pageUrl === actionUrl && actionStyle === 'link',
