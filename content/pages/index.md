@@ -81,8 +81,7 @@ sections:
       - image: /images/Recurso 1@4x-20.jpg
         image_alt: Contentful logo
         image_align: center
-      - image: /images/husqvarna-logo.png
-        image_alt: Netlify logo
+      - image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
         image_alt: Gatsby logo
