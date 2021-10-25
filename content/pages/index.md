@@ -78,7 +78,7 @@ sections:
     subtitle: 'La calidad está en todo lo que hacemos, por eso trabajamos con'
     align: center
     grid_items:
-      - image: /images/Milwaukee-logo.png
+      - image: /images/Milwaukee-logo-proportional.png
         image_alt: Contentful logo
         image_align: center
       - image_alt: Netlify logo
