@@ -83,6 +83,7 @@ sections:
         image_align: center
       - image_alt: Netlify logo
         image_align: center
+        image: /images/husqvarna-logo.png
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
