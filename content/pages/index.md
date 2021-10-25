@@ -85,8 +85,7 @@ sections:
         image_align: center
         image: /images/husqvarna-logo-nob.png
         actions_align: left
-      - image: >-
-          /images/png-clipart-honda-logo-honda-logo-car-honda-civic-type-r-honda-nsx-honda-angle-emblem.png
+      - image: /images/Honda-Logo-t.png
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
