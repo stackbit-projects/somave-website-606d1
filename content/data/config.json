@@ -153,7 +153,7 @@
         "content": "&copy; Somave Grp S.L. – Todos los derechos reservados."
     },
     "announcement": {
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "anncmnt_content": "¡Chollos, chollos! No te pierdas ni un descuento, entérate de todas nuestra ofertas [**apúntate aquí.**](/pricing/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
